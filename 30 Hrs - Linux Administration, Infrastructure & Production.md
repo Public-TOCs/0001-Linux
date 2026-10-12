@@ -1,5 +1,5 @@
 
-# 🐧 Linux Administration, Infrastructure & Production Troubleshooting
+# 🐧 Linux Administration, Infrastructure & Troubleshooting
 
 **Vyomanant Academy | Master Curriculum v7.1**
 
